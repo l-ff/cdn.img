@@ -1,4 +1,4 @@
-# cdn.img
+# [cdn.img](https://gh.img.lfff.top/)
 
 ## 私人图床！
 
